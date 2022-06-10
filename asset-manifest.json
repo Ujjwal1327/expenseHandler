@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/expenseHandler/static/css/main.f0e082dc.css",
+    "main.js": "/expenseHandler/static/js/main.ee4cb041.js",
+    "index.html": "/expenseHandler/index.html",
+    "main.f0e082dc.css.map": "/expenseHandler/static/css/main.f0e082dc.css.map",
+    "main.ee4cb041.js.map": "/expenseHandler/static/js/main.ee4cb041.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e082dc.css",
+    "static/js/main.ee4cb041.js"
+  ]
+}
