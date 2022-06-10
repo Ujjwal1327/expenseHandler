@@ -49,7 +49,7 @@ export default function ExpenseForm(props) {
           />
         </div>
         <div className="new-expense__control">
-          <label> Amount</label>
+          <label> Date</label>
           <input
             type="date"
             min="2018-01-01"
